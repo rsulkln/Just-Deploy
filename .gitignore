@@ -1,0 +1,4 @@
+/vnv 
+db.*
+*.pyc
+/__pycache__/
